@@ -18,8 +18,13 @@ Here are some ideas to get you started:
  Am Kinyua Eric,a software engineer in Nairobi.
 
 🔵️ Currently my Skills-set is as follows:
+
     🔸️Python[Django]
+    
     🔸️Odoo[Odoo framework,xml]
+    
     🔸️HTML,CSS
 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kinyuaeric&theme=radical)
+ 
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinyuaeric&show_icons=true&theme=radical)
