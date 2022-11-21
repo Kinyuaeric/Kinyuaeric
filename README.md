@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on building Odoo modules using Odoo framework
+- 🌱 I’m currently learning Android Development.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ Am Kinyua Eric,a software engineer in Nairobi.
+
+🔵️ Currently my Skills-set is as follows:
+    🔸️Python[Django]
+    🔸️Odoo[Odoo framework,xml]
+    🔸️HTML,CSS
+
+ 🔵️
