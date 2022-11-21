@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kinyuaeric&theme=radical)
  
- ![Top_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kINYUAERIC&show_icons=true&theme=radical)
+ ![Top_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KINYUAERIC&show_icons=true&theme=radical)
