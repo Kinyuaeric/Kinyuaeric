@@ -25,6 +25,9 @@ Here are some ideas to get you started:
     
     🔸️HTML,CSS
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kinyuaeric&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinyuaeric&show_icons=true&theme=radical)
+
+
+<!--  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kinyuaeric&theme=radical) -->
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinyuaeric&show_icons=true&theme=radical)
+ 
