@@ -22,4 +22,4 @@ Here are some ideas to get you started:
     🔸️Odoo[Odoo framework,xml]
     🔸️HTML,CSS
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api username=Kinyuaeric&theme=radical)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kinyuaeric&theme=radical)
